@@ -249,7 +249,6 @@ input.main-button,
     Header
    ========================================================================== */
 .site-header {
-  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
@@ -634,7 +633,7 @@ a#mobile_menu {
   #services {
 /*  background-image: none;
     background-color: #ececec;	*/
-    margin-top: 0;
+    margin-top: 60px;
 	padding-top: 100px;
     padding-bottom: 60px;
   }
